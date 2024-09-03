@@ -63,6 +63,7 @@ async function codeHighlighter(code, langStr) {
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
+  runtime: 'nodejs18.x',
   extensions: [".svelte", ".md"],
   // Consult https://kit.svelte.dev/docs/integrations#preprocessors
   // for more information about preprocessors
