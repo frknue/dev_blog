@@ -37,8 +37,8 @@
 <div class="px-4 py-4">
   <Giscus
     id="comments"
-    repo="josean-dev/sveltekit-blog"
-    repoId="R_kgDOKBNW8w"
+    repo="frknue/dev_blog"
+    repoId="851377677"
     category="General"
     categoryId="DIC_kwDOKBNW884CZ5C-"
     mapping="specific"

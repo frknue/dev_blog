@@ -1,6 +1,6 @@
 ---
 title: "How Vim Changed the Way I Code: A Developer's Configuration Journey"
-imgUrl: "/post-images/7-amazing-cli-tools/thumbnail.jpg"
+imgUrl: "/post-images/neovim_post.png"
 publishedAt: "2024-09-03"
 summary: "A developer's journey from using VS Code to mastering Vim, Neovim, and a fully customized terminal setup. Discover how these tools changed the way I code and why configuring my development environment has made me more productive and brought more fun into my work."
 ---
